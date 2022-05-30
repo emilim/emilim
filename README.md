@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emilio manzotti, in my last year of high school in Italy.
+- 👀 I’m interested in Artificial Intelligence, unsupervised ML, and AGI. I have knowledge in quantum computing, blockhain, and web development. 
+- My favorite programming languages are Python, C++, and Javascript.
+- 📫 How to reach me: emilio.manzotti0006@gmail.com.
