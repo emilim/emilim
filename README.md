@@ -17,5 +17,4 @@ SKILLS
 - Proficient in programming languages such as C++ (and Vulkan), C#, Python and JavaScript
 - Web developer (I am the webmaster of the forthcoming conference TSC2023 (https://tsc2023taormina.it/) 
 
-- You can reach me here: emilio.manzotti0006@gmail.com.
-
+You can reach me here: emilio.manzotti0006@gmail.com
