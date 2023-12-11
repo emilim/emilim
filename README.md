@@ -11,6 +11,6 @@ INTERESTS
 
 SKILLS
 - Proficient in programming languages such as C++ (Vulkan, OpenGL), C#, Python and JavaScript.
-- Web developer (I am the webmaster of the conference TSC2023 ([https://tsc2023taormina.it/](https://tsc2023-taormina.it/)).
+- Web developer (I am the webmaster of the conference [TSC2023](https://tsc2023-taormina.it/).
 
 You can reach me here: emilio.manzotti@studenti.unipd.it
