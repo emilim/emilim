@@ -1,12 +1,13 @@
 ![Emilio's Github stats](https://github-readme-stats.vercel.app/api?username=emilim&theme=github_dark)
 
-I am a seventeen-year-old first-year physics student at the University of Padua. 
+I am second-year physics student at the University of Padua. 
 
 INTERESTS
-- Physics, in particular Special Relativity. Working on different kinds of simulations made with Vulkan and OpenGL in my free time.
-- Consciousness, AI and Computational models of consciousness.
+- Physics, in particular Relativity.
+- AI and Computational models of consciousness.
 - Machine learning, LLMs and pattern recognition.
 - Physics simulation in Vulkan and OpenGL.
+- Happy new discovery: Manimgl library.
 - Passionate reader of philosophy.
 
 SKILLS
