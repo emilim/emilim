@@ -3,9 +3,8 @@
 I am second-year physics student at the University of Padua. 
 
 INTERESTS
-- Physics, in particular Relativity.
-- AI and Computational models of consciousness.
-- Machine learning, LLMs and pattern recognition.
+- Physics Simulations.
+- AI, Machine learning, LLMs and pattern recognition.
 - Physics simulation in Vulkan and OpenGL.
 - Happy new discovery: Manimgl library.
 - Passionate reader of philosophy.
