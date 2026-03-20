@@ -1,6 +1,6 @@
 ![Emilio's Github stats](https://github-readme-stats.vercel.app/api?username=emilim&theme=github_dark)
 
-I am second-year physics student at the University of Padua. 
+I am third-year physics student at the University of Padua.
 
 INTERESTS
 - Physics Simulations.
